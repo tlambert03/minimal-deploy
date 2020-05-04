@@ -19,3 +19,6 @@
         TWINE_USERNAME: __token__
         TWINE_PASSWORD: ${{ secrets.TWINE_API_KEY }}
     ```
+
+
+view code coverage at https://codecov.io/gh/<username>/<reponame>
