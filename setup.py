@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="minimal-deploy",
-    version='0.0.0',
+    version='0.0.1',
     description='A minimal Python package',
     author='Talley',
     author_email='talley.lambert@gmail.com',
